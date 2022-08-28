@@ -1,0 +1,45 @@
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.csprojAssemblyReference.cache
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.AssemblyInfoInputs.cache
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.AssemblyInfo.cs
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.csproj.CoreCompileInputs.cache
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.exe
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.deps.json
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.runtimeconfig.json
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.runtimeconfig.dev.json
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.pdb
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Emzi0767.Common.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.csproj.CopyComplete
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.dll
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.pdb
+C:\Users\flynn\OneDrive - BBBaden\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.genruntimeconfig.cache
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.exe
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.deps.json
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.runtimeconfig.json
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.runtimeconfig.dev.json
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DiscordBotCool.pdb
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Emzi0767.Common.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.csproj.AssemblyReference.cache
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.AssemblyInfoInputs.cache
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.AssemblyInfo.cs
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.csproj.CoreCompileInputs.cache
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.csproj.CopyComplete
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.dll
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.pdb
+C:\Users\flynn\OneDrive - BBBaden\1tes Schuljahr\IMS-Lernatelier\C#\DiscordBotCool\DiscordBotCool\obj\Debug\netcoreapp3.1\DiscordBotCool.genruntimeconfig.cache
