@@ -18,3 +18,6 @@ The syntax we used to activate those comands is a "?", this is freely interchang
 Here is a small demonstration of our bot made by my group member Niels Brunokowski:
 
 ![DiscordBot](https://user-images.githubusercontent.com/69577267/187053297-53d43d42-8adc-4dcb-963f-b4f17a158671.gif)
+
+# Additional Informtion
+This is a private bot and only I have access to the developer application. It is not accesable by the public.
