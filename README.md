@@ -6,10 +6,10 @@ This is a group project I created in the first year of the IMS. I was really fas
 
 We have implemented some small commands, they aren't anything special but it's atleast something taken in the case that we were pretty new to this.
 Here's the list of our commands:
-*bruder
-*help
-*hi
-*memo
-*ping
-*random
-*sum
+* bruder
+* help
+* hi
+* memo
+* ping
+* random
+* sum
