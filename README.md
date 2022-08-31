@@ -21,4 +21,4 @@ Here is a small demonstration of our bot made by my group member Niels Brunokows
 
 # Additional Informtion
 
-This is a private bot and only I have access to the developer application. It is not accesable by the public.
+To use this discord but you have to create a Bot on your own on https://discord.com/developers/applications and get your own token and insert it in the config.json file.
